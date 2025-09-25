@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=C_1uF_0402 New DesignItemId=C_1uF_1206
+Change Component Footprint: Designator=C3 Old Footprint=0402_Passive_Capacitor New Footprint=1206_Passive_Capacitor
+Change Component Description : Designator=C3 Old Description=MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS New Description=MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0402_Passive_Capacitor"; UniqueID = "\WLUHMVBA" ("\WLUHMVBA")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/C1206C105M4RACTU/399-8150-1-ND/3471873/?itemSeq=304982366"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C1848"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31B105KBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"

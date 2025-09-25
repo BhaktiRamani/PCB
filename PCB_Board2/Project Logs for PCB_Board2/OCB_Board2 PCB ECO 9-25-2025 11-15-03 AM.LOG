@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Hex1_A Pin=R8-1
+Removed Pin From Net: NetName=Hex1_A Pin=U3-1
+Removed Pin From Net: NetName=Hex1_A Pin=U3-3
+Removed Pin From Net: NetName=Hex1_A Pin=U3-5
+Removed Pin From Net: NetName=Hex1_A Pin=U3-9
+Added Pin To Net: NetName=Hex2_A Pin=R8-1
+Added Pin To Net: NetName=Hex2_A Pin=U3-1
+Added Pin To Net: NetName=Hex2_A Pin=U3-3
+Added Pin To Net: NetName=Hex2_A Pin=U3-5
+Added Pin To Net: NetName=Hex2_A Pin=U3-9
+Added Net: Name=Hex2_A
